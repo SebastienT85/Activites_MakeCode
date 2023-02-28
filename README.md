@@ -13,7 +13,7 @@ Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
 * cliquez sur **Extensions** dans le menu engrenage
 * recherchez **https://github.com/SebastienT85/Activites_MakeCode** et importez
 
-## Éditer ce projet ![Badge du statut de la compilation](https://github.com/GenieLabMtl/rosy_microbit/workflows/MakeCode/badge.svg)
+## Éditer ce projet !##
 
 Éditer ce dépôt dans MakeCode.
 
